@@ -1,1 +1,4 @@
 # digital-resume-robertk
+
+## About Me
+I am Robert Knox, an aspiring Electrical Engineer currently studying at Mississippi State University with a concentration in AI/Machine Learning, targeting a graduation date in December 2025. My academic and professional journey is marked by hands-on experience in system optimization, embedded systems, and solution development, highlighted by a project that achieved a 15% improvement in timelines within three months. Through internships at Southern Company and Graphic Packaging International, I have honed my skills in electrical systems, software engineering, and project management. I am particularly passionate about integrating AI and machine learning technologies to enhance electrical engineering solutions. My goal is to leverage my technical expertise and innovative mindset to drive advancements in technology and efficiency in the industry.
